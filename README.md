@@ -1,4 +1,4 @@
-Documentation for Salary Data Analysis Project
+Documentation for  Data Analysis Project
 
 Project Overview
 This project aims to analyze employee salary data using Python and the `pandas` library. The script reads data from a CSV file named **`emp.csv`** and computes statistical measures such as **Mean**, **Median**, and **Mode** of the salary column, provided it exists in the dataset.
